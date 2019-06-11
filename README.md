@@ -26,3 +26,5 @@ pipenv --venv
    添加虚拟路径"python.venvPath": "/Users/mac/.local/share/virtualenvs/pydemo-FdSH9b1B"
 
 3. 重启 vscode
+
+## pipenv 项目结构
